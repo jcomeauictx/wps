@@ -1,5 +1,6 @@
 # wps
 
-JavaScript implementation of postscript, [wps](//logand.com/wps/index.html)
+Tomas Hlavaty's JavaScript implementation of postscript,
+[wps](//logand.com/wps/index.html)
 
-[In action](//htmlpreview.github.io/?//github.com/jcomeauictx/wps/blob/master/index.html)
+[See it in action](//htmlpreview.github.io/?//github.com/jcomeauictx/wps/blob/master/index.html)
